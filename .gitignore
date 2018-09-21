@@ -34,3 +34,13 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+GE_LAB_01/\.idea/\.idea\.GE_LAB_01/\.idea/
+
+GE_LAB_01/\.idea/\.idea\.GE_LAB_01/riderModule\.iml
+
+GE_LAB_01/Assets/Plugins/Editor/JetBrains\.meta
+
+GE_LAB_01/Assets/Plugins/Editor/JetBrains/JetBrains\.Rider\.Unity\.Editor\.Plugin\.Repacked\.dll
+
+GE_LAB_01/Assets/Plugins/Editor/JetBrains/JetBrains\.Rider\.Unity\.Editor\.Plugin\.Repacked\.dll\.meta
